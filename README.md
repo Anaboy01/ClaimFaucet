@@ -14,4 +14,6 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 
 my Contract address is
 
-```0x2ea93c71a609C90eD86a3c8CEAB3Ea1227D1923c```
+```shell
+0x2ea93c71a609C90eD86a3c8CEAB3Ea1227D1923c
+```
